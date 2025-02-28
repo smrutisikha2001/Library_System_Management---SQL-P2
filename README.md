@@ -20,7 +20,7 @@ PROJECT STRUCTURE:
 
 1. Database Setup
 
-[Database Model (MySQL Workbench)](https://github.com/smrutisikha2001/Library_System_Management---SQL-P2/blob/a58c35be73b8bf5aeb034eb7bb845d61e4aa5c19/P2_%20ERD%20Schema.mwb)
+![image alt](https://github.com/smrutisikha2001/Library_System_Management---SQL-P2/blob/9b40ac733896b775c5b82193d97ec517ade8d229/ERD%20Pic.png)
 
 Database Creation: Created a database named library_project_p2.
 Table Creation: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
