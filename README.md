@@ -7,6 +7,8 @@ Database: library_project_p2
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries.
 
+![image alt](https://github.com/smrutisikha2001/Library_System_Management---SQL-P2/blob/a58c35be73b8bf5aeb034eb7bb845d61e4aa5c19/library.jpg)
+
 OBJECTIVE:
 
 Set up the Library Management System Database: Create and populate the database with tables for branches, employees, members, books, issued status, and return status.
@@ -18,6 +20,7 @@ PROJECT STRUCTURE:
 
 1. Database Setup
 
+[Database Model (MySQL Workbench)](https://github.com/smrutisikha2001/Library_System_Management---SQL-P2/blob/a58c35be73b8bf5aeb034eb7bb845d61e4aa5c19/P2_%20ERD%20Schema.mwb)
 
 Database Creation: Created a database named library_project_p2.
 Table Creation: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
